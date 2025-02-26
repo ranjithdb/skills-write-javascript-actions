@@ -1,3 +1,5 @@
+.github/actions/joke-action/node_modules
+
 # Compiled source #
 ###################
 *.com
@@ -35,3 +37,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.github/actions/joke-action/node_modules
